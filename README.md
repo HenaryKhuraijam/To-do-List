@@ -23,7 +23,7 @@
 - [📝 License](#license)
 
 # To-do-List
-- In this project, build a simple list of To Do tasks using webpack and served by a webpack dev server.
+   In this project, build a simple list of To Do tasks using webpack and served by a webpack dev server.
 
 ## Built With
 
@@ -34,7 +34,7 @@
 
 ## Key Features
 - [Setting up of Linters]
-- [Setting up of wdpack]
+- [Setting up of webpack]
 - [Adding Index.html and style.css]
 - [styling a text using class giving a appropriate font size,margin,image,padding]
 
