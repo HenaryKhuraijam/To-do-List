@@ -1,3 +1,11 @@
+<a name="readme-top"></a>
+
+<div align="center">
+ 
+  <h3><b>Book-collection</b></h3>
+
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -22,79 +30,165 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# To-do-List
-   In this project, build a simple list of To Do tasks using webpack and served by a webpack dev server.
+<!-- PROJECT DESCRIPTION -->
 
-## Built With
+# 📖 To-do-list <a name="about-project"></a>
 
-- HTML
-- CSS
-- JS
-- Webpack
+> A simple website that displays a simple HTML list of To Do tasks and allows you to add and remove from that list.
 
-## Key Features
-- [Setting up of Linters]
-- [Setting up of webpack]
-- [Adding Index.html and style.css]
-- [styling a text using class giving a appropriate font size,margin,image,padding]
+## 🛠 Built With <a name="built-with">
+-HTML
+-CSS
+-Javascript
+-Webpack</a>
 
-## Live Demo
+### Tech Stack <a name="tech-stack"></a>
 
-[Live Demo]()
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
-## Getting started
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>Html</li>
+    <li>Css </li>
+    <li>Javascript </li>
+    <li> Webpack </li>
+     </ul>
+</details>
 
-Go to the Folder where want to copy this repo and type the following cmds in you terminal:
+<!-- Features -->
 
-- git clone git@github.com:HenaryKhuraijam/To-do-List.git
+### Key Features <a name="key-features"></a>
 
-## Prerequisites
+> **[Local Storage]**
+  > A feature that allows you to store data on the client-side
+  **[Modules]**
+  > Modules can help keep code organized, improve maintainability, and reduce the likelihood of naming conflicts.
+  **[CRUD]**
+  > These are the basic operations used in databases and applications for managing data.
 
-- Knowledge HTML, CSS, JS and Webpack
-- VSCode or other text editor installed. [Link to download VSCode](https://code.visualstudio.com/download)
-- Node package. [Link to download node](https://nodejs.org/en/download/)
 
-## To Install type the following command
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- npm install
 
-## To Run App type the following command in your terminal
+## 🚀 Live Demo <a name="live-demo"></a>
 
-  - npm start
+- Live Demo is not available
 
-### To Run test cases type the following command
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-  - npm test
 
-## Author
+## 💻 Getting Started <a name="getting-started"></a>
 
-👤 Khuraijam Henary Singh
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- A text editor (preferably Visual Studio Code)
+- Github
+
+### Setup
+
+Clone this repository to your desired folder:
+
+cd my-folder
+  git clone git@github.com:HenaryKhuraijam/To-do-List.git
+
+
+### Install
+
+Install this project with:
+
+  -  [Git](https://git-scm.com/downloads)
+  -  [Node](https://nodejs.org/en/download/)
+
+### Usage
+
+To run the project, execute the following command:
+- After Cloning this repo to your local machine
+- Open the `index.html` in your browser
+- Open with Live Server
+
+### Run tests
+To track linter errors locally follow these steps:  
+
+Download all the dependencies run:
+```
+npm install
+```
+Track HTML linter errors run:
+```
+npx hint .
+```
+Track CSS linter errors run:
+```
+npx stylelint "**/*.{css,scss}"
+```
+Track JavaScript linter errors run:
+```
+npx eslint .
+```
+### Deployment
+You can deploy this project using:
+GitHub pages
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Khuraijam Henary Singh**
 
 - GitHub: [@HenaryKhuraijam](https://github.com/HenaryKhuraijam)
 - Twitter: [@HenaryKhuraijam](https://twitter.com/HenaryKhuraijam)
-- LinkedIn: [Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam)
+- LinkedIn: [Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam-50487317a)
+
+👤 **Samuel**
+
+- GitHub: [samuel_lemma](https://github.com/sam2if)
+- Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
+- LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
+
+## 👥 Authors <a name="authors"></a>
+
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-   -Making responsive website
-   -Making desktop version website
 
- [To Add more events]
+> Describe 1 - 3 features you will add to the project.
 
-## 🤝 Contributing
+- [ ] **[Make some changes]**
+- [ ] **[Add application's styling]**
+- [ ] **[build a complete website with working navigation.]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues).
+Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a [⭐️](../../stargazers) if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
+> Write a message to encourage readers to support your project
 
-## Acknowledgments
-- Microverse Team
-- My Family
-- All my fellow micronauts.
+If you like this project feel free to leave comments and contact via given authors information above.
 
-## 📝 License
-This project is [MIT](LICENSE) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+I would like to thank the code reviewers for taking time to do the work. A special thank you as well to my teammates for their support it wouldnt have been possible without you guys.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
