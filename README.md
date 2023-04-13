@@ -150,7 +150,8 @@ GitHub pages
 
 - GitHub: [samuel_lemma](https://github.com/sam2if)
 - Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
-- LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
+- LinkedIn: [samuel_lemma](https://www.linkedin.com/in/henary-khuraijam-50487317a
+)
 
 ## 👥 Authors <a name="authors"></a>
 
