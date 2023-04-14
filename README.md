@@ -40,6 +40,7 @@
 -HTML
 -CSS
 -Javascript
+-Es lint
 -Webpack</a>
 
 ### Tech Stack <a name="tech-stack"></a>
