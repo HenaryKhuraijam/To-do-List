@@ -93,9 +93,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-cd my-folder
-  git clone git@github.com:HenaryKhuraijam/To-do-List.git
-
+cd my-folder git clone git@github.com:HenaryKhuraijam/To-do-List.git
 
 ### Install
 
@@ -151,8 +149,6 @@ GitHub pages
 - GitHub: [samuel_lemma](https://github.com/sam2if)
 - Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
 - LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
-
-## 👥 Authors <a name="authors"></a>
 
 <!-- FUTURE FEATURES -->
 
