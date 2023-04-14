@@ -160,7 +160,6 @@ GitHub pages
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Make some changes]**
 - [ ] **[Add application's styling]**
 - [ ] **[build a complete website with working navigation.]**
 
