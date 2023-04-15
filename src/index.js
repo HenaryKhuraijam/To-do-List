@@ -1,4 +1,3 @@
-import './styles/main.scss';
 import Tasks from './tasks.js';
 
 const tasks = new Tasks();
