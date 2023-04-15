@@ -40,6 +40,7 @@
 -HTML
 -CSS
 -Javascript
+-Es lint
 -Webpack</a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -93,9 +94,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-cd my-folder
-  git clone git@github.com:HenaryKhuraijam/To-do-List.git
-
+cd my-folder git clone git@github.com:HenaryKhuraijam/To-do-List.git
 
 ### Install
 
@@ -152,15 +151,12 @@ GitHub pages
 - Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
 - LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
 
-## 👥 Authors <a name="authors"></a>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Make some changes]**
 - [ ] **[Add application's styling]**
 - [ ] **[build a complete website with working navigation.]**
 
