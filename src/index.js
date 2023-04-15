@@ -1,13 +1,4 @@
-import Tasks from './tasks.js';
+import './style.css';
+import { renderUI } from './modules/renderUI.js';
 
-const tasks = new Tasks();
-const addTaskBtn = document.getElementById('addBtn');
-
-addTaskBtn.addEventListener('click', () => {
-  tasks.addTask();
-});
-
-const clearBtn = document.getElementById('clearBtn');
-clearBtn.addEventListener('click', () => {
-  tasks.clearComplete();
-});
+renderUI();
