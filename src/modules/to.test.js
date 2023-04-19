@@ -51,4 +51,5 @@ describe('test removeTaskItem and LocalStorage', () => {
     saveLocal();
     expect(JSON.parse(localStorage.getItem('arrTaskLocal'))).toHaveLength(0);
   });
+  
 });
