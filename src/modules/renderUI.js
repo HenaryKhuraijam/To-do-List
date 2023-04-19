@@ -38,4 +38,4 @@ const renderUI = () => {
   btnClear.addEventListener('click', delCompleted);
 };
 
-export { renderUI, delCompleted };
+export default renderUI;

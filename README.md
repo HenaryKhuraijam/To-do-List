@@ -141,15 +141,21 @@ GitHub pages
 
 👤 **Khuraijam Henary Singh**
 
-- GitHub: [@HenaryKhuraijam](https://github.com/HenaryKhuraijam)
+- GitHub: [@HenaryKhuraijam](https://github.com/HenaryKhuraija)
 - Twitter: [@HenaryKhuraijam](https://twitter.com/HenaryKhuraijam)
 - LinkedIn: [Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam-50487317a)
 
-👤 **Samuel**
+👤 **Md Sazzad Hossain**
 
-- GitHub: [samuel_lemma](https://github.com/sam2if)
-- Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
-- LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
+- GitHub: [@SAZZAD1Q2](https://github.com/SAZZAD1Q2)
+- LinkedIn: [Md Sazzad Hossain](https://www.linkedin.com/in/md-sazzad-hossain-054720257/)
+
+👤 **Abdulwasiu Fasasi**
+
+- GitHub: [@oluwatobi](https://github.com/oluwatobi-fasasi)
+- Twitter: [@Fasasi](https://twitter.com/FasasiTobi1)
+- LinkedIn: [Fasasi](https://www.linkedin.com/in/fasasi-abdulwasih-oluwatobi-129a8b109/)
+
 
 <!-- FUTURE FEATURES -->
 
