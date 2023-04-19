@@ -36,6 +36,7 @@ describe('test removeTaskItem and LocalStorage', () => {
   test('remove task to show arrTask.tasks length 0', () => {
     removeTaskItem(1);
     expect(arrTasks.tasks).toHaveLength(1);
+    
   });
 
   test('test for local storage', () => {
