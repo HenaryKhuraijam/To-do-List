@@ -145,6 +145,11 @@ GitHub pages
 - Twitter: [@HenaryKhuraijam](https://twitter.com/HenaryKhuraijam)
 - LinkedIn: [Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam-50487317a)
 
+👤 **Md Sazzad Hossain**
+
+- GitHub: [@SAZZAD1Q2](https://github.com/SAZZAD1Q2)
+- LinkedIn: [Md Sazzad Hossain](https://www.linkedin.com/in/md-sazzad-hossain-054720257/)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
