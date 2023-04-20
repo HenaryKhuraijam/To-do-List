@@ -150,6 +150,12 @@ GitHub pages
 - GitHub: [@SAZZAD1Q2](https://github.com/SAZZAD1Q2)
 - LinkedIn: [Md Sazzad Hossain](https://www.linkedin.com/in/md-sazzad-hossain-054720257/)
 
+👤 **Abdulwasiu Fasasi**
+
+- GitHub: [@oluwatobi](https://github.com/oluwatobi-fasasi)
+- Twitter: [@Fasasi](https://twitter.com/FasasiTobi1)
+- LinkedIn: [Fasasi](https://www.linkedin.com/in/fasasi-abdulwasih-oluwatobi-129a8b109/)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
