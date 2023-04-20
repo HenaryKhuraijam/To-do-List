@@ -147,8 +147,6 @@ GitHub pages
 
 👤 **Md Sazzad Hossain**
 
-
-
 - GitHub: [@SAZZAD1Q2](https://github.com/SAZZAD1Q2)
 - LinkedIn: [Md Sazzad Hossain](https://www.linkedin.com/in/md-sazzad-hossain-054720257/)
 
